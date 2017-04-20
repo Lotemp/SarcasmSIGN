@@ -1,4 +1,4 @@
-# the Sarcasm SIGN
+# Sarcasm SIGN
 
 ## Overview
 
