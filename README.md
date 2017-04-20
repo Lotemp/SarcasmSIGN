@@ -1,2 +1,1 @@
-# sarcasmSIGN
-Interpreting Sarcasm with Sentiment Based Monolingual Machine Translation
+# Sarcasm SIGN: Interpreting Sarcasm with Sentiment Based Monolingual Machine Translation
