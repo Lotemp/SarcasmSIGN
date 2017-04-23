@@ -9,6 +9,7 @@ Monolingual Machine Translation* which will be presented in ACL 2017. The reposi
 
 The Sarcasm SIGN dataset is comprised of 3000 sarcastic tweets (tweets marked with *#sarcasm*), which are written in English, are not retweets, and do not contain URLs or images. The average sarcastic tweet length is 13.87 words, average interpretation length is 12.10 words and the vocabulary size is 8788 unique words. Each sarcastic tweet has five different non sarcastic interpretation. Following are two examples from our dataset:
 
+![My image](lotemp.github.com/sarcasmsigh/datasetExample.jpg)
 
 sentences balancing multiple genres. It is special for having two kinds of double annotations: Each sentence was annotated according to both the emotion which is expressed by the writer, and the emotion which is perceived by the readers. Also, a subset of the corpus have been previously annotated according to Ekmans 6 Basic Emotions (Strapparava and Mihalcea, 2007) so that mappings between both representation formats become possible.
 
