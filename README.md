@@ -22,8 +22,10 @@ TBD
 ## Contact
 
 For any questions, inquiries or interesting ideas, feel free to contact us.
-Lotem: lotemi.peled@gmail.com , https://sarcasmsigndata.wordpress.com/
-Roi: roiri@ie.technion.ac.il , https://ie.technion.ac.il/~roiri/
+
+Lotem: lotemi.peled@gmail.com || https://sarcasmsigndata.wordpress.com/
+
+Roi: roiri@ie.technion.ac.il || https://ie.technion.ac.il/~roiri/
 
 
 
