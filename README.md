@@ -3,13 +3,14 @@
 ## Overview
 
 This repository contains the Sarcasm SIGN dataset, a parallel corpus of sarcastic tweets and their non-sarcastic interpretations, as created by human experts. This corpus was created as part of our paper *Sarcasm SIGN: Interpreting Sarcasm with Sentiment Based
-Monolingual Machine Translation* which will be presented in ACL 2017. The repository contains two folders: "corpus" which contains the Sarcasm SIGN dataset (described in the ACL paper) and "preprocess" which contains code for preprocessing the data and preparing it for a MT system (see ReadMe in preprocess folder).
+Monolingual Machine Translation* which will be presented in ACL 2017. The repository contains two folders: "corpus" which contains the Sarcasm SIGN dataset (described in the ACL paper) as well as the instructions for our human experts; and "preprocess" which contains code for preprocessing the data and preparing it for a MT system (see ReadMe in preprocess folder).
 
-data from our pilot study (described in the LAW paper). See the readme files in the respective folders %for more detailed information regarding the data format.
+## Characteristics
 
-Characteristics
+The Sarcasm SIGN dataset is comprised of 3000 sarcastic tweets (tweets marked with *#sarcasm*), which are written in English, are not retweets, and do not contain URLs or images. The average sarcastic tweet length is 13.87 words, average interpretation length is 12.10 words and the vocabulary size is 8788 unique words. Each sarcastic tweet has five different non sarcastic interpretation. Following are two examples from our dataset:
 
-EmoBank comprises 10k sentences balancing multiple genres. It is special for having two kinds of double annotations: Each sentence was annotated according to both the emotion which is expressed by the writer, and the emotion which is perceived by the readers. Also, a subset of the corpus have been previously annotated according to Ekmans 6 Basic Emotions (Strapparava and Mihalcea, 2007) so that mappings between both representation formats become possible.
+
+sentences balancing multiple genres. It is special for having two kinds of double annotations: Each sentence was annotated according to both the emotion which is expressed by the writer, and the emotion which is perceived by the readers. Also, a subset of the corpus have been previously annotated according to Ekmans 6 Basic Emotions (Strapparava and Mihalcea, 2007) so that mappings between both representation formats become possible.
 
 Attribution of Raw Data
 
