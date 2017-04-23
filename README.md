@@ -2,7 +2,10 @@
 
 ## Overview
 
-%This repository contains EmoBank, a large-scale text corpus manually annotated with emotion according to the psychological Valence-%Arousal-Dominance scheme. It was build at JULIE Lab, Jena University and is described in detail in our papers from EACL 2017 and LAW %2017 (see Citation). The repository contains two folders: "corpus" which contains the actual Emobank data (described in the EACL paper) %and "pilot" which contains the data from our pilot study (described in the LAW paper). See the readme files in the respective folders %for more detailed information regarding the data format.
+This repository contains the Sarcasm SIGN dataset, a parallel corpus of sarcastic tweets and their non-sarcastic interpretations, as created by human experts. This corpus was created as part of our paper *Sarcasm SIGN: Interpreting Sarcasm with Sentiment Based
+Monolingual Machine Translation* which will be presented in ACL 2017. The repository contains two folders: "corpus" which contains the Sarcasm SIGN dataset (described in the ACL paper) and "preprocess" which contains code for preprocessing the data and preparing it for a MT system (see ReadMe in preprocess folder).
+
+data from our pilot study (described in the LAW paper). See the readme files in the respective folders %for more detailed information regarding the data format.
 
 Characteristics
 
