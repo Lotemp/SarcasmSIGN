@@ -1,6 +1,6 @@
 # Sarcasm SIGN: Interpreting Sarcasm with Sentiment Based Monolingual Machine Translation
 
-Lotem Peled, Roi Reichart [(pdf)](https://arxiv.org/pdf/1704.06836.pdf)
+Lotem Peled, Roi Reichart [(pdf)](https://arxiv.org/abs/1704.06836)
 
 ## Overview
 
