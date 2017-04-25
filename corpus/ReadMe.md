@@ -1,10 +1,14 @@
 ## the Sarcasm SIGN Dataset
 
 This repository contains our data files, containing sarcastic tweet along with their non-sarcastic interpretations,
-as created by human experts. The files are available in .txt and .csv formats, and they are built so that each line contains a list of
+as created by human experts. The files are available in .txt and .csv formats, and they are built so that each line is comprised of
 [sarcastic tweet, non sarcastic interpretation]. Note that every sarcastic tweet appears 5 times with 5 different non sarcastic interpretations.
 
-Full contains the entire corpus (3000 sarcastic tweets with 5 interpretations each, resulting in 15,000 lines). Train contains 2400 tweets (12,000 lines), dev and test contain 300 tweets each (1500 lines).
+*"full"* contains the entire corpus (3000 sarcastic tweets with 5 interpretations each, resulting in 15,000 lines). *"Train"* contains 2400 tweets (12,000 lines), *"dev"* and *"test"* contain 300 tweets each (1500 lines).
+
+## Human Expert Instructions
+
+The instructions we gave to our Fiverr workers appear in the file *instructions.txt*.
 
 ## Citation
 
