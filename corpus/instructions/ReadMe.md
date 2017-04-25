@@ -1,1 +1,1 @@
-
+In this folder you can find the instructions we provided to our Fiverr workers hired for our task. We hired 10 Fiverr workers, half of them from the field of comedy writing, and half from the field of literature paraphrasing (all of them with active twitter accounts, to ensure they are familiar with the twitter lingo). We randomly divided our tweet corpus to two batches of size 1500 each, and randomly assigned five workers to each batch.
