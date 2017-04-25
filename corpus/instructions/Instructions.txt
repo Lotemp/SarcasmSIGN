@@ -1,0 +1,38 @@
+*** Sarcasm Interpretation ***
+
+Dear Fiverr Worker!
+
+Today's task is Sarcasm Interpretation (you can think about it as a kind of paraphrasing).
+
+In the attached excel file there are 1500 sarcastic tweets, all (or most) of them ending with #sarcasm. Your task is to paraphrase the tweet into an honest expression, while keeping the original intention of the author.
+
+Examples:
+
+1) Sarcastic: "This seems safe. #sarcasm"
+
+Possible Honest Interpretations: "This does not seem safe" , "This does not look safe" , "I don't think this is safe" 
+
+2) Sarcastic: "Hey, I was hoping I could get more posts about Donald Trump from unknown websites
+on my Facebook timeline. #Sarcasm"
+
+Possible Honest Interpretations:"I don’t want to get anymore posts about Donald Trump on my Facebook timeline." , "Stop showing posts about Trump on my Facebook timeline"
+
+3) Sarcastic: "YAY, Monday. #sarcasm"
+
+Possible Honest Interpretations: "Bummer, Monday." , "I hate that today is Monday".
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+REMARKS:
+
+1) Note that there are many correct interpretations! For example in case of example 3: "YAY, Monday. #sarcasm" can be translated into "Bummer, Monday" or "I hate Mondays" or "Mondays are the worst". Just try to keep the author's true intention.
+
+2) If in the tweet there are things that you're unfamiliar with (names of people, events, etc.)
+we encourage you to look for that information on google, if you think it will help you provide a better interpretation.
+
+3) You may find that some tweets are not sarcastic in your view, even though they end with #sarcasm. If you encounter such tweets, please let us know and leave the tweet as it is (uninterpreted). 
+
+Do your best and have fun.
+
+If you have any comments or suggestions, I'd love to hear.
+Thanks,
+Lotem
