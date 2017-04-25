@@ -8,7 +8,7 @@ as created by human experts. The files are available in .txt and .csv formats, a
 
 ## Human Expert Instructions
 
-The instructions we gave to our Fiverr workers appear in the file *instructions.txt*.
+The instructions we gave to our Fiverr workers appear in the folder *instructions*.
 
 ## Citation
 
