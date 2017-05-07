@@ -23,7 +23,7 @@ We engourage researchers to send us their algorithms and results, and we will pr
 
 If you use the Sarcasm SIGN dataset and/or algorithm, please cite the following:
 
-TBD
+Peled, Lotem, and Roi Reichart. "Sarcasm SIGN: Interpreting Sarcasm with Sentiment Based Monolingual Machine Translation." arXiv preprint arXiv:1704.06836 (2017).
 
 ## Contact
 
